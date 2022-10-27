@@ -3,5 +3,5 @@
   flex-direction: column;
   background: #1A1B21;
   max-width: 430px;
-
+  border-radius: 10px 10px 10px 10px;
 }

@@ -5,5 +5,5 @@ footer {
   gap: 24px;
   background: #161619;
   padding: 19px 0;
-  border-end-end-radius: 20px ;
+  border-radius: 0 0 10px 10px;
 }

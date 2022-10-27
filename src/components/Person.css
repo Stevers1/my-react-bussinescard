@@ -7,6 +7,7 @@
   width: inherit;
   height: 317px;
   background-color: aliceblue;
+  border-radius: 10px 10px 0 0;
 }
 
 .container__person > h1,p {
