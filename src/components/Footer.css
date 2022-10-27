@@ -1,0 +1,9 @@
+footer {
+
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  background: #161619;
+  padding: 19px 0;
+  border-end-end-radius: 20px ;
+}

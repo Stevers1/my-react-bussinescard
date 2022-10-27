@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #23252c;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.root {
+  display: flex;
+  justify-content: center;
+}
+
